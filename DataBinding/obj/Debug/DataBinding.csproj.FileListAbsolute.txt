@@ -1,0 +1,12 @@
+C:\wamp64\www\DataBinding\DataBinding\bin\Debug\DataBinding.exe.config
+C:\wamp64\www\DataBinding\DataBinding\bin\Debug\DataBinding.exe
+C:\wamp64\www\DataBinding\DataBinding\bin\Debug\DataBinding.pdb
+C:\wamp64\www\DataBinding\DataBinding\obj\Debug\DataBinding.csprojResolveAssemblyReference.cache
+C:\wamp64\www\DataBinding\DataBinding\obj\Debug\DataBinding.Form1.resources
+C:\wamp64\www\DataBinding\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+C:\wamp64\www\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.Cache
+C:\wamp64\www\DataBinding\DataBinding\obj\Debug\DataBinding.exe
+C:\wamp64\www\DataBinding\DataBinding\obj\Debug\DataBinding.pdb
+C:\wamp64\www\DataBinding\DataBinding\bin\Debug\HtmlAgilityPack.dll
+C:\wamp64\www\DataBinding\DataBinding\bin\Debug\HtmlAgilityPack.pdb
+C:\wamp64\www\DataBinding\DataBinding\bin\Debug\HtmlAgilityPack.xml
